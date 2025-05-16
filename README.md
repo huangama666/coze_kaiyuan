@@ -88,4 +88,4 @@ config文件夹中，找到config.php，修改数据库的用户名和密码
 
 ![image](https://github.com/user-attachments/assets/e9d54144-f06b-4569-a087-b3afc57b3a69)
 
-开源协议：MIT
+开源协议：无
