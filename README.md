@@ -83,9 +83,11 @@ config文件夹中，找到config.php，修改数据库的用户名和密码
 密码：123456
 
 技术支持与合作
-如有任何问题，请联系黄啊码，微信：ama_huangama
+如有请联系黄啊码，微信：ama_huangama
 如有私有化部署需要，也可联系黄啊码
 
 ![image](https://github.com/user-attachments/assets/e9d54144-f06b-4569-a087-b3afc57b3a69)
 
+扣子主页：
+[https://www.coze.cn/user/1858623821844992](https://www.coze.cn/user/1858623821844992)
 开源协议：无
